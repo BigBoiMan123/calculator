@@ -11,3 +11,10 @@ run `g++ calculator.cpp -o calculator`
 you'll need mingw
 
 compile with `-static`
+
+## future plans
+add more operations (powers, roots, etc.)
+
+non-interactive mode
+
+add comments
